@@ -6,4 +6,4 @@ st.set_page_config(
 )
 
 st.title("Catalogue des applications")
-st.write("Prototype local du parc applicatif NaTran R&I et test commit je fais une deuxioème nouvelle modification ")
+st.write("Gros Prototype local du parc applicatif NaTran R&I et test commit je fais une deuxioème nouvelle modification ")
